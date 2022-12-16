@@ -1,0 +1,6 @@
+[submodule "3rdparty/libbinaryio"]
+	path = 3rdparty/libbinaryio
+	url = https://github.com/Bo98/libbinaryio
+[submodule "3rdparty/CRCpp"]
+	path = 3rdparty/CRCpp
+	url = https://github.com/d-bahr/CRCpp
